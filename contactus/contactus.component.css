@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik:500,700|Roboto:400,600");
+.section-padding {
+    padding: 45px 0;
+}
+.section-dark {
+    background-color: hsl(0, 64%, 98%);
+    z-index: -2;
+}
+
+h1{
+    font-size: 40px;
+
+}

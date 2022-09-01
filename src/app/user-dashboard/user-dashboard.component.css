@@ -1,0 +1,13 @@
+a{
+   
+    font-size: 1.5rem;
+}
+.container{
+    padding:20%
+}
+.card{
+    padding: 10%;
+    -webkit-box-shadow: 3px 7px 55px -5px rgba(138, 128, 128, 0.75);
+    -moz-box-shadow: 3px 7px 55px -5px rgba(138, 128, 128, 0.75);
+    box-shadow: 3px 7px 55px -5px rgba(138, 128, 128, 0.75);
+}
